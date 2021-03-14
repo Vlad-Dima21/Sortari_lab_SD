@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1615622204 source:d:\facultate\semestrul 2\sd\laboratoare\proiecte codeblocks\proiect\proiect\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<chrono>
+	<vector>
+	<bits/stdc++.h>
+	<fstream>
+
